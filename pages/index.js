@@ -36,6 +36,7 @@ export default () => styled`
     <LastYearVideo />
     <WhatIsIt />
     <Guests guests={skaters} title="СКЕЙТ" />
+    <div>hello Larek</div>
     <Guests guests={bmxers} title="BMX" />
     <Reglament />
     <Map />
